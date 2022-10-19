@@ -1,3 +1,6 @@
+# This is not my work, I have downloade it an uploaded here for my refrence.
+# The original work is from https://github.com/rcmalli/keras-vggface, do check his profile for intresting works.
+
 # keras-vggface [![Build Status](https://travis-ci.org/rcmalli/keras-vggface.svg?branch=master)](https://travis-ci.org/rcmalli/keras-vggface) [![PyPI Status](https://badge.fury.io/py/keras-vggface.svg)](https://badge.fury.io/py/keras-vggface) [![PyPI Status](https://pepy.tech/badge/keras-vggface)](https://pepy.tech/project/keras-vggface)
 
 Oxford VGGFace  Implementation using Keras Functional Framework v2+
